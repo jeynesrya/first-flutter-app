@@ -34,7 +34,6 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       theme: ThemeData(
         primarySwatch: Colors.green,
-        accentColor: Colors.white,
       ),
       //home: AuthPage(),
       routes: {
